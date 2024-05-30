@@ -72,6 +72,8 @@ One of the key headaches was designing a Centralized Database. This involved int
 The most difficult non-technical challenge encountered in the second week of the project was how we could be managing our clients expectations and satisfaction. The nature of the business involved serving a wide range of clients with diverse needs and requirements, which required exceptional client service skills.
 
 The principal non-technical challenge was dealing with last-minute changes or cancellations from clients. These unexpected alterations to bookings could disrupt the entire operational schedule and impact other customers' reservations. Effectively communicating and finding alternative solutions to accommodate changes while minimizing the impact on other customers was a significant challenge.
+![Screenshot_20240530-224127](https://github.com/evarist1/EvaSite/assets/138725917/b4fff37a-d846-438b-949a-c4965ad4499c)
+![Screenshot_20240530-224153](https://github.com/evarist1/EvaSite/assets/138725917/8330fbc6-ceef-4d64-a7ce-8af42d08c7c7)
 
 Handling customer complaints and resolving conflicts also proved to be demanding. Despite the best efforts to provide a seamless service, issues could arise, such as equipment malfunctions, delays, and unknown misunderstandings. Addressing these concerns promptly, empathetically, and satisfactorily was crucial to maintain customer loyalty and reputation.
 
