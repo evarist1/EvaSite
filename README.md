@@ -61,14 +61,14 @@ Partnerships and Relationships Collaborations with various clinics, and hospital
 Process Computerization 
 Truly, in the world today, automation plays a crucial role in improving operational efficiency. While we have integrated an online booking system, there is ongoing work in automating other processes such as inventory management, invoicing, and reporting. Implementing robust automation systems will help streamline our operations, also to reduce manual errors, and enhance overall productivity.
 
-CHALLENGES in WEEK 2 
+## CHALLENGES in WEEK 2 
 
-Technical Challenge
+# Technical Challenge
 The most difficult technical challenge encountered in the second week of my project was applying an efficient Inventory Management System (IMS). In the sense that managing a diverse catalog of services, accessories, and equipment required a robust system that could handle the complexities of tracking availability, bookings, and logistics.
 
 One of the key headaches was designing a Centralized Database. This involved integrating various data sources, such as online bookings, manual reservations, and returns into a cohesive system. Ensuring data accuracy and consistency across different channels proved to be a complex task.
 
-Non-Technical Challenge
+# Non-Technical Challenge
 The most difficult non-technical challenge encountered in the second week of the project was how we could be managing our clients expectations and satisfaction. The nature of the business involved serving a wide range of clients with diverse needs and requirements, which required exceptional client service skills.
 
 The principal non-technical challenge was dealing with last-minute changes or cancellations from clients. These unexpected alterations to bookings could disrupt the entire operational schedule and impact other customers' reservations. Effectively communicating and finding alternative solutions to accommodate changes while minimizing the impact on other customers was a significant challenge.
